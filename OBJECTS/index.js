@@ -38,7 +38,7 @@
 // ]
 
 // const user = Object.groupBy(person, (users)=> users.age)
-// console.log(user);
+// console.log(user)
 
 
 
