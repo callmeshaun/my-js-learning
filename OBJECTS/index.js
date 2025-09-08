@@ -25,24 +25,20 @@
 // console.log(person.isEmployed);
 // person.sayHello() // Calling the method
 
-const person = [
-  { name: 'Shaunak',
-    age: 20,
-    isEmployed: false,},
-    { name: 'Swaraj',
-    age: 20,
-    isEmployed: true,},
-  { name: 'John',
-    age: 30,
-    isEmployed: true,},
-]
+// const person = [
+//   { name: 'Shaunak',
+//     age: 20,
+//     isEmployed: false,},
+//     { name: 'Swaraj',
+//     age: 20,
+//     isEmployed: true,},
+//   { name: 'John',
+//     age: 30,
+//     isEmployed: true,},
+// ]
 
-const user = Object.groupBy(person, (users)=> users.age)
-
-
-
-
-console.log(user);
+// const user = Object.groupBy(person, (users)=> users.age)
+// console.log(user);
 
 
 
